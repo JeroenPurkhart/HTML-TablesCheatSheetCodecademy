@@ -31,6 +31,12 @@ td {
     border: 0.5px solid
 }
 
+footer {
+    text-align: center;
+    font-size: smaller;
+    margin-top: 100px;
+}
+
 .code {
     font-family: monospace;
 }
